@@ -93,3 +93,4 @@ Use the Linux in your CSE4001 container. If you are using macOS, you may use the
 // Add your code or answer here. You can also add screenshots showing your program's execution.  
 ```
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/40a4368c-27b2-4a76-ba30-623da7b7e6e3" />
